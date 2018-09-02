@@ -6,5 +6,8 @@
 
 [8 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 
+[Datasets](https://elitedatascience.com/datasets)
 
 [21 Machine Learning Interview Questions and Answers](https://elitedatascience.com/machine-learning-interview-questions-answers)
+
+
